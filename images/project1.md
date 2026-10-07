@@ -1,6 +1,7 @@
 ## Documentation of project 1
 
 `STEP 1_INTSALLING APACHE AND UPDATING THE FIREWALL`
+
 What exactly is Apache?
 
 Apache HTTP Server is the most widely used web server software. Developed and maintained
